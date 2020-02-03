@@ -28,6 +28,7 @@ An artist can, of course, have many paintings. Paintings can only be in one gall
 
   * `Artist.all`
     * Returns an `array` of all the artists
+    done
 
   * `Artist#paintings`
     * Returns an `array` all the paintings by an artist
